@@ -1,4 +1,3 @@
-# Excel-Sales-Dashboard-VINDA-Store-2022-
 # 📘 VINDA STORE ANNUAL REPORT FOR YEAR-2022
 
 ## 📊 Excel-Based Sales & Customer Analysis Dashboard
